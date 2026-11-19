@@ -1,0 +1,4 @@
+[core]
+    remote = labstorage
+['remote "labstorage"']
+    url = ../../dvc-storage

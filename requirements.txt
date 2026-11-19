@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+pyyaml
+great-expectations
+dvc
+mlflow
+fastapi
+uvicorn[standard]
+pydantic
+ipykernel
+notebook
+kaggle
